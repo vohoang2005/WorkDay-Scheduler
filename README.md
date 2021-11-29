@@ -14,23 +14,6 @@
 your time more accordingly! Hope this app will help you to maintain your work task more efficiently :).
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h1> Built With </h1>
     <li> HTML </li>
     <li> CSS </li>
